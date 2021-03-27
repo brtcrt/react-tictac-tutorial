@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-tictac-tutorial/static/css/main.d653599f.chunk.css",
-    "main.js": "/react-tictac-tutorial/static/js/main.6ab6230b.chunk.js",
-    "main.js.map": "/react-tictac-tutorial/static/js/main.6ab6230b.chunk.js.map",
+    "main.js": "/react-tictac-tutorial/static/js/main.3fc8437b.chunk.js",
+    "main.js.map": "/react-tictac-tutorial/static/js/main.3fc8437b.chunk.js.map",
     "runtime-main.js": "/react-tictac-tutorial/static/js/runtime-main.056abd0d.js",
     "runtime-main.js.map": "/react-tictac-tutorial/static/js/runtime-main.056abd0d.js.map",
     "static/js/2.0518db65.chunk.js": "/react-tictac-tutorial/static/js/2.0518db65.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.056abd0d.js",
     "static/js/2.0518db65.chunk.js",
     "static/css/main.d653599f.chunk.css",
-    "static/js/main.6ab6230b.chunk.js"
+    "static/js/main.3fc8437b.chunk.js"
   ]
 }
